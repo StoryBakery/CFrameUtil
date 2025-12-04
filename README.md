@@ -1,6 +1,6 @@
 # CFrameUtil
 
-Story-Bakery가 배포하는 Luau 라이브러리입니다.
+StoryBakery가 배포하는 Luau 라이브러리입니다.
 
 - 패키지 이름: `story_bakery/CFrameUtil`
 - 엔트리: `CFrameUtil.luau`
